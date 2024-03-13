@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gianniszisakis
-- 👀 I’m interested in FrontEnd Web Development
-- 🌱 I’m currently learning Javascript and my target is to learn ReactJS
+- 👀 I’m interested in DevOps Engineer / Cloud Engineer
+- 🌱 I’m currently learning Linux Server Management and Kubernetes.
 - 📫 Contact me through my e-mail giannis.zisakis@gmail.com or linkedin profile https://www.linkedin.com/in/giannis-zisakis/ ;)
 
 <!---
