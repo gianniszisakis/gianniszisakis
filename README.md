@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gianniszisakis
 - 👀 I’m a React Developer
-- 🌱 I’m currently learning backend with NodeJS.
+- 🌱 I’m currently learning backend (NodeJS).
 - 📫 Contact me through my e-mail giannis.zisakis@gmail.com or linkedin profile https://www.linkedin.com/in/giannis-zisakis/ ;)
 
 <!---
